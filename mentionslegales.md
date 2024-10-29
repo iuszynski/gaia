@@ -5,8 +5,8 @@ permalink: /mentionslegales.html
 ---
 
 
-PRÉSENTATION DU SITE.
----------------------
+PRÉSENTATION DU SITE
+--------------------
 <ul>
     <li>
     Webmaster/Responsable publication : {{site.email}}.
@@ -18,8 +18,8 @@ PRÉSENTATION DU SITE.
 </ul>
 
 
-DESCRIPTION DES SERVICES FOURNIS.
----------------------------------
+DESCRIPTION DES SERVICES FOURNIS
+--------------------------------
 
 <ul>
     <li>
@@ -30,8 +30,8 @@ Tous les informations indiquées sur le site {{site.title}} sont données à tit
 </ul>
 
 
-LICENCE.
---------
+LICENCE
+-------
 
 <ul>
     <li>
@@ -40,11 +40,11 @@ Tous les droits sont réservés.
 </ul>
 
 
-LIENS HYPERTEXTES ET COOKIES.
------------------------------
+LIENS HYPERTEXTES ET COOKIES
+----------------------------
 <ul>
     <li>
-Le site {{site.title}} contient un certain nombre de liens hypertextes vers d’autres sites mais le webmasteur n’a pas la possibilité de vérifier le contenu des sites ainsi visités, et n’assumera en conséquence aucune responsabilité de ce fait.
+Le site {{site.title}} contient un certain nombre de liens hypertextes vers d’autres sites mais le webmaster n’a pas la possibilité de vérifier le contenu des sites ainsi visités, et n’assumera en conséquence aucune responsabilité de ce fait.
     </li><li>
 La navigation sur le site {{site.title}} est susceptible de provoquer l’installation de cookie(s) sur l’ordinateur de l’utilisateur. Un cookie est un fichier de petite taille, qui ne permet pas l’identification de l’utilisateur, mais qui enregistre des informations relatives à la navigation d’un ordinateur sur un site. Les données ainsi obtenues visent à faciliter la navigation ultérieure sur le site, et ont également vocation à permettre diverses mesures de fréquentation.
     </li><li>

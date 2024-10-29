@@ -13,7 +13,9 @@ PRÉSENTATION DU SITE
     </li><li>
     Hébergeur : Github Pages – 88 Colin P Kelly Junior Street, San Francisco, CA 94107, United States.
     </li><li>
-    Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll: <a href="https://andrewbanchi.ch">A Banchich</a>.
+    Design : <a href="https://html5up.net">HTML5 UP</a> sous licence <a href="https://html5up.net/license">Creative Commons Attribution 3.0</a>.
+    </li><li>
+    Thème Jekyll : <a href="https://github.com/andrewbanchich">A Banchich</a>.
     </li>
 </ul>
 

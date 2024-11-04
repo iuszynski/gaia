@@ -1,11 +1,10 @@
 ---
 layout:
-name: Aymeric Gaudin
+name: Hugo Boniface
 desc: Research Engineer
 position: engineer
 cat: gaia
-subcat: platform
+subcat: cati
 avatar:
-joined: 2024
+joined: 2019
 ---
-

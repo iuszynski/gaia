@@ -4,3 +4,6 @@ _site/
 .jekyll-metadata
 .~
 Gemfile*
+.pixi
+pixi.lock
+

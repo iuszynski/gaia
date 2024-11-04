@@ -70,4 +70,4 @@ For Bibtex conversion:
 
 # Jekyll
 
-For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details.
+For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com](https://jekyllrb.com/) for all the details.

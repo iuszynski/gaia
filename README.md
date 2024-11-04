@@ -55,7 +55,7 @@ Then install the website design environment with the following command:
 git clone https://github.com/neurospin/gaia
 ```
 
-Then the web server can be run from the git source directory with the following command:
+Finally the web server can be run from the git source directory with the following command:
 
 ```
 cd gaia

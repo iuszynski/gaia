@@ -1,6 +1,6 @@
 ---
 layout:
-name: Aymerci Gaudin
+name: Aymeric Gaudin
 desc: Research Engineer
 position: engineer
 cat: gaia

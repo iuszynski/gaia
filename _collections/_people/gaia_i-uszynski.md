@@ -1,11 +1,11 @@
 ---
 layout:
 name: Ivy Uszynski
-desc: Research Engineer, PhD
-position: engineer
+desc: Research Scientist
+position: pi
 cat: gaia
 subcat: ginkgo
 avatar:
-joined: 2006
+joined: 2019
 ---
 

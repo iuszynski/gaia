@@ -36,5 +36,3 @@ The mission of the cell is to meet the various needs of research teams in suppor
 <span style='font-size:20px;'>&#8594;</span>The development of webservices that allow remote control of the developed pipelines and the access to the data produced. <br>
 <span style='font-size:20px;'>&#8594;</span>The deployment of these tools on the high performance computing resources of NeuroSpin (CPU and GPU clusters) and of the CEA Très Grand Centre de Calcul (via the EBRAINS/FENIX infrastructure). <br>
 <span style='font-size:20px;'>&#8594;</span>The availability of a catalogue listing all the tools produced by the cell. More specifically, within the framework of various research projects conducted by the BAOBAB unit, the cell analyses population imaging data from small, medium and large monocentric, multicentric, national, European or international cohorts acquired on healthy subjects (IMAGEN, HCP, UK BioBank, …) or patients (R-link, EUAIMS, HBN, …) in order to develop population stratification approaches and thus be able to identify the predisposition of each individual to develop brain pathologies. This work is carried out in close collaboration with the UMS CATI.
-
-

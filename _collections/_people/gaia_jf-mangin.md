@@ -9,4 +9,3 @@ site: https://sites.google.com/view/jfmangin/
 avatar:
 joined: 2006
 ---
-

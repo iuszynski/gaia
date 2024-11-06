@@ -9,4 +9,3 @@ site: https://agrigis.github.io
 avatar: a-grigis.jpg
 joined: 2014
 ---
-

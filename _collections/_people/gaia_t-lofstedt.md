@@ -9,4 +9,3 @@ site: https://www.umu.se/en/staff/tommy-lofstedt/
 avatar:
 joined: 2013
 ---
-

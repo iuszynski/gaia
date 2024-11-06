@@ -4,7 +4,7 @@ title: SIGNATURE
 cat: gaia
 subcat: team
 headline: Neuroimaging signatures of brain disorders
-teasing:  Develops cutting-edge machine learning and statistical models to uncover neural signatures that can stratify psychiatric disorders in the frame of large-scale national and European initiatives. 
+teasing:  Develops cutting-edge machine learning and statistical models to uncover neural signatures that can stratify psychiatric disorders in the frame of large-scale national and European initiatives.
 leader: Edouard Duchesnay
 icon: signature.png
 added: 2020
@@ -22,7 +22,7 @@ permalink: teams/gaia-signature.html
     <b> Leader: </b>
     <script>mail2("{{page.leader | replace: " ", "." | downcase}}", "cea", 3, "", "{{page.leader}}")</script>
   </p>
-  
+
 </div>
 <span class="image object">
   <img src="{{site.url}}{{site.baseurl}}/images/labs/{{page.icon}}" alt="" />

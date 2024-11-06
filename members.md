@@ -18,8 +18,8 @@ permalink: /people/
     {% endfor %}
     {% assign people_valid = people_valid | push: listpeople %}
 {% endfor %}
- 
- 
+
+
 <div>
 {% assign i = 0 %}
 {% for item in people_array %}

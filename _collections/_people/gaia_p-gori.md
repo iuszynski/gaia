@@ -8,4 +8,3 @@ subcat: signature
 avatar:
 joined: 2013
 ---
-

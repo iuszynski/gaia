@@ -4,7 +4,7 @@ title: ARCHITECTURE
 cat: gaia
 subcat: team
 headline: Deciphering the variability of the cortical folding pattern
-teasing: Develops innovative methods to decipher the cortical folding pattern and perform automatic sulcus recognition, based on the use of machine learning and artificial intelligence techniques to infer dictionaries of tractable local polymorphisms supposed to provide a good proxy to the architectural segregation of populations. 
+teasing: Develops innovative methods to decipher the cortical folding pattern and perform automatic sulcus recognition, based on the use of machine learning and artificial intelligence techniques to infer dictionaries of tractable local polymorphisms supposed to provide a good proxy to the architectural segregation of populations.
 leader: Denis Rivière
 icon: architecture.png
 added: 2020

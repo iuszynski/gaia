@@ -19,7 +19,7 @@ permalink: bibliography/bestof.html
         {% if entry.doi %}
           {% capture title %}<a href="http://doi.org/{{entry.doi}}" target="_blank">{{entry.title}}</a>{% endcapture %}
         {% else %}
-          {% assign title = {{entry.title}} %}  
+          {% assign title = {{entry.title}} %}
         {% endif %}
         {% if entry.journal %}
             {{entry.author}}: {{title}}, {{entry.journal}} ({{entry.year}})
@@ -34,5 +34,3 @@ permalink: bibliography/bestof.html
   {% endfor %}
 </div>
 <hr>
-
-

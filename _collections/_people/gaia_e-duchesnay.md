@@ -9,4 +9,3 @@ avatar: e-duchesnay.png
 site: https://duchesnay.github.io
 joined: 2006
 ---
-

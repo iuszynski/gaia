@@ -29,7 +29,7 @@ For a spontaneous application do not hesitate to <a href="mailto:{{site.email}}"
     {% endfor %}
     {% assign jobs_valid = jobs_valid | push: listjobs %}
 {% endfor %}
- 
+
 <div>
 {% assign i = 0 %}
 {% for item in jobs_array %}
@@ -68,4 +68,3 @@ For a spontaneous application do not hesitate to <a href="mailto:{{site.email}}"
     {% endif %}
 {% endfor %}
 </div>
-

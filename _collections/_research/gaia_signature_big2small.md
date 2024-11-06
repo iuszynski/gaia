@@ -1,6 +1,6 @@
 ---
 layout:
-title: Tranfer learning strategy to bridge the gap between big and small data
+title: Transfer learning strategy to bridge the gap between big and small data
 cat: gaia
 subcat: signature
 teasing: Exploring the potential of representation and transfer learning for anatomical neuroimaging - application to psychiatry.

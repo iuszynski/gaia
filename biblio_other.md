@@ -32,7 +32,7 @@ permalink: bibliography.html
       <div class="text-justify {{entry.cat}} {{entry.subcat}}">
         &#x2022;
         {% if entry.doi %}
-          {% capture title %}<a href="http://doi.org/{{entry.doi}}" target="_blank">{{entry.title}}</a>{% endcapture %}
+          {% capture title %}<a href="https://doi.org/{{entry.doi}}" target="_blank">{{entry.title}}</a>{% endcapture %}
         {% else %}
           {% assign title = {{entry.title}} %}
         {% endif %}

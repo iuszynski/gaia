@@ -20,7 +20,7 @@ expiration_opportunities: 100
 expiration_news: 300
 
 # Social settings
-#500px_url: http://www.neurospin-wiki.org/pmwiki/Main/DirectionsToNeurospin
+#500px_url: https://www.neurospin-wiki.org/pmwiki/Main/DirectionsToNeurospin
 #facebook_url: https://www.facebook.com/pages/NeuroSpin/171075046414933
 #github_url: https://github.com/neurospin
 #twitter_url: https://twitter.com/neurospin_91

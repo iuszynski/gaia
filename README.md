@@ -45,28 +45,39 @@ Please look at the example and use the same keys.
 
 Note: For the research collection, you will have to add a new `research_<CATEGORY>.md` for new categories.
 
-# Local Install
+# Test website modification locally
 
-Jekyll:
+First install pixi : [https://pixi.sh](https://pixi.sh)
+
+Then install the website design environment with the following command:
 
 ```
-sudo apt install ruby-dev
-echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
-echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
-echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
-source ~/.bashrc
-gem install jekyll bundler
-cd $MYPROJECT
-bundle init
-bundle add jekyll webrick
-bundle install
+git clone https://github.com/neurospin/gaia
+```
+
+Finally the web server can be run from the git source directory with the following command:
+
+```
+cd gaia
+pixi run gaia-website
+```
+
+The first execution will take time to install requirements. The website can be seen using the following URL in a browser : [https://localhost:8080](https://localhost:8080).
+
+To get more options on the web server (for instance changing the port number), one can use:
+
+```
+cd gaia
+pixi shell
 bundle exec jekyll serve --livereload --port 8080
 ```
 
+
 For Bibtex conversion:
 
-- pip install pybtex
-- pybtex-convert biblio.bib biblio.yaml
+```
+pybtex-convert biblio.bib biblio.yaml
+```
 
 # Jekyll
 

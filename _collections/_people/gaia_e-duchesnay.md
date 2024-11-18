@@ -1,8 +1,8 @@
 ---
 layout:
 name: Edouard Duchesnay
-desc: Head of Laboratory, Research Director
-position: pi
+desc: Research Director
+position: head
 cat: gaia
 subcat: signature
 avatar: e-duchesnay.png

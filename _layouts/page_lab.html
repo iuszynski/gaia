@@ -93,7 +93,7 @@
                             {% else %}
                                 <a href="{{site.url}}{{site.baseurl}}{{cell.url}}" class="image"><img src="{{site.url}}{{site.baseurl}}/images/labs/{{cell.icon}}" alt="" /></a>
                             {% endif %} -->
-                            <h3>{{ cell.title }}</h3>
+                            <h3>{{ cell.title }}: {{cell.headline}}</h3>
                             <p>
                                 <b>Leader: </b>
                                 <script>mail2("{{cell.leader | replace: " ", "." | downcase}}",

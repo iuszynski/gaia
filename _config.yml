@@ -5,6 +5,10 @@ subtitle: Brain Imaging and Data Science Lab
 baseurl: #gaia
 url: # https://baobablab.github.io/
 
+# Legal
+director: Jean-François Mangin
+webmaster: Edouard Duchesnay
+
 # Contacts
 email: edouard.duchesnay@cea.fr
 author:

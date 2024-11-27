@@ -9,7 +9,9 @@ PRÉSENTATION DU SITE
 --------------------
 <ul>
     <li>
-    Webmaster/Responsable publication : {{site.email}}.
+    Directeur de publication : {{site.director}}.
+    </li><li>
+    Webmaster/Responsable publication : {{site.webmaster}}.
     </li><li>
     Hébergeur : Github Pages – 88 Colin P Kelly Junior Street, San Francisco, CA 94107, United States.
     </li><li>

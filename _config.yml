@@ -48,7 +48,7 @@ collections:
 
   collaborators:
     output    : true
-    permalink : /colleborators/:title/index.html
+    permalink : /collaborators/:title/index.html
 
   people:
     output    : true

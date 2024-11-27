@@ -8,6 +8,7 @@
 {% assign teams_sorted = site.labs | where: "cat", lab | where: "subcat", "team" | sort: "title"  %}
 {% assign cells_sorted = site.labs | where: "cat", lab | where: "subcat", "cell" | sort: "title"  %}
 {% assign research_sorted = site.research | sort: 'added' | reverse  %}
+{% assign collaborators_sorted = (site.collaborators | sort: 'subcat' %}
 
 <html>
 
@@ -35,6 +36,22 @@
                     {% endif %}
 
                     {{ content }}
+                    
+                    <!-- Supervisions -->
+                    <section id="supervision">
+                        <header class="major">
+                          <h2>Supervisions</h2>
+                        </header>
+                        <div class="content list people">
+                          {% for collab in collaborators_sorted %}
+                            <div class="list-item-collab">
+                              <p class="list-post-title">
+                                <a href="{{collab.ext_url}}" target="_blank"><img height="90" src="{{site.url}}/{{site.baseurl}}/images/collaborators/{{collab.avatar}}"></a>
+                              </p>
+                            </div>
+                          {% endfor %}
+                        </div>
+                    </section>
 
                     <!-- Teams -->
                     <section id="teams">

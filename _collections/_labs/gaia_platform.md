@@ -1,6 +1,6 @@
 ---
 layout: page_team
-title: Platform
+title: GAIA Analysis Platform
 cat: gaia
 subcat: cell
 headline: Support for scientific research and massive image processing

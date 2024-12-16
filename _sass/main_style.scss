@@ -122,3 +122,19 @@
     list-style: none;
     margin-bottom: 0.5em;
 }
+
+.container-mentors {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-mentors img {
+  height: 50px; /* Set a fixed height for all images */
+  object-fit: cover; /* This will make sure the images maintain their proportions */
+  margin: 5px; /* This will add some spacing between the images */
+}
+
+#banner {
+  border-bottom: none !important;
+}

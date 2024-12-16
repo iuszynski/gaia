@@ -10,7 +10,7 @@ For a spontaneous application do not hesitate to <a href="mailto:{{site.email}}"
 
 {% assign today = site.time | date: '%s' %}
 {% assign jobs_sorted = site.opportunities | sort: 'date' | reverse %}
-{% assign jobs_array = "permanent|phd|postdoc|internship" | split: "|" %}
+{% assign jobs_array = "permanent|engineer|phd|postdoc|internship" | split: "|" %}
 
 
 {% assign jobs_valid = '' | split: '' %}
@@ -41,6 +41,8 @@ For a spontaneous application do not hesitate to <a href="mailto:{{site.email}}"
             <h3>Permanent position</h3>
         {% elsif item == 'phd' %}
             <h3>PhD Scholarship</h3>
+        {% elsif item == 'engineer' %}
+            <h3>Research Engineers</h3>
         {% elsif item == 'postdoc' %}
             <h3>PostDoctoral position</h3>
         {% elsif item == 'internship' %}

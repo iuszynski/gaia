@@ -108,7 +108,12 @@
 }
 
 #banner {
-  padding: 2em ! important;
+  border-bottom: none !important;
+  padding-left: 2em !important;
+  padding-right: 2em !important;
+  padding-bottom: 1em !important;
+  padding-top: 2em !important;
+  
 }
 
 .center {
@@ -135,6 +140,9 @@
   margin: 5px; /* This will add some spacing between the images */
 }
 
-#banner {
-  border-bottom: none !important;
+#supervision {
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-bottom: 2em;
+  padding-top: 0;
 }

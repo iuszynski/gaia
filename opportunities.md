@@ -54,7 +54,7 @@ For a spontaneous application do not hesitate to <a href="mailto:{{site.email}}"
         <div class="content list">
         {% for job in listjobs %}
             <div class="{{job.cat|replace: ' ', '-'}} {{job.subcat|replace: ' ', '-'}}">
-              <p style="text-align: left; padding-left: 5em; margin: 0;">
+              <p style="text-align: left; padding-left: 1em; margin: 0;">
                 &#x2022; {{job.title}} - {{job.profile}}
                 {% if job.ext_url %}
                   <a href="{{job.ext_url}}" class="icon fa-cloud-download" target="_blank"><span class="label">Job</span></a>

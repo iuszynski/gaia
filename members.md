@@ -48,7 +48,7 @@ permalink: /people/
         <div class="content list people">
           {% for profile in listpeople %}
             <div class="list-item-people {{profile.cat|replace: ' ', '-'}} {{profile.subcat|replace: ' ', '-'}}">
-              <p style="text-align: left; padding-left: 5em; margin: 0;">
+              <p style="text-align: left; padding-left: 1em; margin: 0;">
                   &#x2022;
                   {% if profile.site %}
                     <a class="name" href="{{profile.site}}" target="_blank">

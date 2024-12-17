@@ -11,10 +11,10 @@
 {% assign key = key | split: "-" %}
 {% assign lab = key[0] %}
 {% assign team = key[1] %}
+{% assign research_sorted = site.research | where: "cat", lab | where: "subcat", team | sort: "added" | reverse  %}
 {% if team == 'platform' %}
     {% assign team = 'gaia-analysis-platform' %}
 {% endif %}
-{% assign research_sorted = site.research | where: "cat", lab | where: "subcat", team | sort: "added" | reverse  %}
 {% assign people_sorted = site.people | where: "cat", lab | where: "subcat", team | sort: 'joined' %}
 {% assign people_array = "pi|engineer|postdoc|gradstudent|alumni" | split: "|" %}
 {% assign people_valid = '' | split: '' %}
@@ -76,7 +76,7 @@
                                 <div class="content list people">
                                   {% for profile in listpeople %}
                                     <div class="list-item-people {{profile.cat|replace: ' ', '-'}} {{profile.subcat|replace: ' ', '-'}}">
-                                      <p style="text-align: left; padding-left: 5em; margin: 0;">
+                                      <p style="text-align: left; padding-left: 1em; margin: 0;">
                                           &#x2022;
                                           {% if profile.site %}
                                             <a class="name" href="{{profile.site}}" target="_blank">

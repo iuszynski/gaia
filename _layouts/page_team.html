@@ -11,7 +11,7 @@
 {% assign key = key | split: "-" %}
 {% assign lab = key[0] %}
 {% assign team = key[1] %}
-{% if item == 'platform' %}
+{% if team == 'platform' %}
     {% assign team = 'gaia-analysis-platform' %}
 {% endif %}
 {% assign research_sorted = site.research | where: "cat", lab | where: "subcat", team | sort: "added" | reverse  %}

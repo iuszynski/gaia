@@ -1,10 +1,10 @@
 ---
 layout:
 name: Joël Chavas
-desc: CDD (under superv. J.-F. Mangin, D. Rivière)
-position: cdd
+desc: Research Engineer
+position: engineer
 cat: gaia
 subcat: architecture
 avatar:
-joined: 2020
+joined: 2024
 ---

@@ -1,7 +1,6 @@
 ![PoweredBy](https://img.shields.io/badge/Powered%20by-CEA%2FNeuroSpin-blue.svg)
 ![Build Static Pages](https://github.com/neurospin/gaia/workflows/Build%20Static%20Pages/badge.svg)
 
-
 # Important links
 
 - repository URL: https://github.com/neurospin/gaia

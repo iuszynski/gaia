@@ -2,8 +2,8 @@
 # Site settings
 title: GAIA
 subtitle: Brain Imaging and Data Science Lab
-baseurl: #gaia
-url: # https://baobablab.github.io/
+baseurl: gaia
+url: https://www.neurospin.fr
 
 # Legal
 director: Jean-François Mangin

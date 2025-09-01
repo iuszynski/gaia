@@ -37,7 +37,7 @@ layout: page_lab
 </div>
 <div class="">
   <img src="{{site.url}}{{site.baseurl}}/images/banner.png" alt="" style="
-    width: 100%;
+    width: 40%;
     height: auto;
     margin-bottom: 2em;
   "/>

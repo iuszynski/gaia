@@ -6,6 +6,6 @@ subcat: ginkgo
 type: postdoc
 profile: PhD in neuroimaging, neuroscience, medical imaging or machine learning
 contact: ivy.uszynski@cea.fr, philippe.ciuciu@cea.fr, myriam.edjlali@aphp.fr
-ext_url: ginkgo.neurospin.fr/opportunities
+ext_url: https://ginkgo.neurospin.fr//images/opportunities/BrainSync_Postdoc_WP3_dMRI.pdf
 date: 2026-01-01
 ---

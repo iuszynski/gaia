@@ -1,8 +1,8 @@
 ---
 layout:
 name: Simon Legeay
-desc: PhD 2025 (prepared under co-superv. C Poupon, I Uszynski)
-position: gradstudent
+desc: PostDoc 2025-2028
+position: postdoc
 cat: gaia
 subcat: ginkgo
 avatar:

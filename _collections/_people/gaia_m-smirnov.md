@@ -2,7 +2,7 @@
 layout:
 name: Mykyta Smirnov
 desc: PostDoc 2022-2024 (under co-superv. C Poupon, I Uszynski)
-position: postdoc
+position: alumni
 cat: gaia
 subcat: ginkgo
 avatar:

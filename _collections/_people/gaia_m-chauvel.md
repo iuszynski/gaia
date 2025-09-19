@@ -1,8 +1,8 @@
 ---
 layout:
 name: Maëlig Chauvel
-desc: PhD 2023 (prepared under superv. C Poupon)
-position: alumni
+desc: PostDoc 2025-2028
+position: postdoc
 cat: gaia
 subcat: ginkgo
 avatar:

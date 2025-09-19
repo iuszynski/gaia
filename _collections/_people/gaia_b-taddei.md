@@ -1,7 +1,7 @@
 ---
 layout:
 name: Bosco Taddei
-desc: CDD (under superv. I Uszynski, C Poupon)
+desc: CDD 2025-2026
 position: cdd
 cat: gaia
 subcat: ginkgo

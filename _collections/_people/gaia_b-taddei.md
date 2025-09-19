@@ -1,8 +1,8 @@
 ---
 layout:
 name: Bosco Taddei
-desc: Engineer 2021-2024 (under co-superv. C Poupon, C Pallier, I Uszynski)
-position: alumni
+desc: CDD (under superv. I Uszynski, C Poupon)
+position: cdd
 cat: gaia
 subcat: ginkgo
 avatar:

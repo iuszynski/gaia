@@ -25,7 +25,7 @@ Design of machine learning and statistical models to uncover neural signatures p
 
 </div>
 <span class="image object">
-  <img src="{{site.url}}{{site.baseurl}}/images/labs/{{page.icon}}" alt="" />
+  <img src="{{site.url}}{{site.baseurl}}/images/labs/{{page.icon}}" alt="" style="display: block; margin: 0 auto; width: 50%;"/>
 </span>
 
 </section>

@@ -6,6 +6,6 @@ position: engineer
 cat: gaia
 subcat: gaia-analysis-platform
 site: https://agrigis.github.io
-avatar: a-grigis.jpg
+avatar:
 joined: 2014
 ---

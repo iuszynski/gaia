@@ -50,4 +50,4 @@ With shared etiologies for individualized therapeutic strategy.
 
 **UNLOCKING TH​​​E DATA ACCESS**
 
-Learning models require collecting more and better data (wide and deep phenotyping). First, we tackled the “big data challenge” by aggregating open datasets (UKB, ABCD, HBN) into an interoperable database. Second, we actively contributed and will continue to play a major role to the emergence of deeply phenotyped datasets by leading the data management and analysis of several large European and national projects (PEPR PROPSY, RHUs FAME and PsyCARE, European project R-LiNK). ​
+Learning models require collecting more and better data (wide and deep phenotyping). First, we tackled the “big data challenge” by aggregating open datasets (UK Biobank, ABCD, HBN) into an interoperable database. Second, we actively contributed and will continue to play a major role to the emergence of deeply phenotyped datasets by leading the data management and analysis of several large European and national projects (PEPR PROPSY, RHUs FAME and PsyCARE, European project R-LiNK). ​

@@ -10,4 +10,4 @@ permalink: /photos/
 
 <img src="{{site.url}}{{site.baseurl}}/images/photos/gaia-lab_20250901.jpg" 
      alt="Group" 
-     style="display: block; margin: 0 auto; width: 70%;" />
+     style="display: block; margin: 0 auto; width: 100%;" />

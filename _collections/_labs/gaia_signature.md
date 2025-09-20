@@ -25,7 +25,7 @@ Design of machine learning and statistical models to uncover neural signatures p
 
 </div>
 <span class="image object">
-  <img src="{{site.url}}{{site.baseurl}}/images/labs/{{page.icon}}" alt="" style="display: block; margin: 0 auto; width: 50%;"/>
+  <img src="{{site.url}}{{site.baseurl}}/images/labs/{{page.icon}}" alt="" style="width: 40%; height: auto; margin-bottom: 2em;"/>
 </span>
 
 </section>
@@ -34,7 +34,7 @@ Design of machine learning and statistical models to uncover neural signatures p
 
 <!-- Content -->
 <br>
-Artificial Intelligence (AI) combined with neuroimaging opens up possibilities for personalized medicine. With this long-term objective, we developed four lines of research:
+AAArtificial Intelligence (AI) combined with neuroimaging opens up possibilities for personalized medicine. With this long-term objective, we developed four lines of research:
 
 **MODELS TO PRODUCE INT​​​ERPRETABLE BRAIN SIGNATURES OF DISORDERS**
 

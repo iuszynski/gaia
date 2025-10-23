@@ -29,7 +29,6 @@ For a spontaneous application do not hesitate to <a href="mailto:{{site.email}}"
     {% endfor %}
     {% assign jobs_valid = jobs_valid | push: listjobs %}
 {% endfor %}
-
 <div>
 {% assign i = 0 %}
 {% for item in jobs_array %}
@@ -56,7 +55,9 @@ For a spontaneous application do not hesitate to <a href="mailto:{{site.email}}"
             <div class="{{job.cat|replace: ' ', '-'}} {{job.subcat|replace: ' ', '-'}}">
               <p style="text-align: left; padding-left: 1em; margin: 0;">
                 &#x2022; {{job.title}} - {{job.profile}}
-                {% if job.ext_url %}
+                {% if job.layout == 'page' %}
+                  <a href="{{job.url}}" class="icon fa-cloud-download"><span class="label">Job</span></a>
+                {% elsif job.ext_url %}
                   <a href="{{job.ext_url}}" class="icon fa-cloud-download" target="_blank"><span class="label">Job</span></a>
                 {% elsif job.pdf %}
                   <a href="{{site.url}}{{site.baseurl}}/images/opportunities/{{job.pdf}}" class="icon fa-cloud-download" target="_blank"><span class="label">Job</span></a>

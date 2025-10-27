@@ -7,7 +7,35 @@ subcat: n4brain
 type: engineer
 date: 2025-10-22
 ---
-<header class="main">
+<style>
+    .strip {
+      width: 100%;
+      display: grid;
+      grid-template-columns: 1fr auto 1fr;
+      align-items: center;
+      gap: 1rem;
+      box-sizing: border-box;
+      padding: 0 1rem;
+    }
+
+    .strip img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      object-fit: contain;
+    }
+
+    .strip .left   { justify-self: start; }
+    .strip .center { justify-self: center; }
+    .strip .right  { justify-self: end; }
+
+  </style>
+  <header class="main">
+    <div class="strip" role="group">
+        <img class="left" src="{{site.url}}{{site.baseurl}}/images/institutions/neurospin.svg" alt="Logo Neurospin" style="height: 5em;">
+        <img class="center" src="{{site.url}}{{site.baseurl}}/images/institutions/université_paris-saclay.svg" alt="Logo Université Paris-Saclay" style="height: 15em;">
+        <img class="right" src="{{site.url}}{{site.baseurl}}/images/institutions/cea.svg" alt="Logo CEA" style="height: 6em;">
+    </div>
     <h1>Ingénieur développement et intégration pour la recherche sur le cerveau</h1>
 </header>
 <body>

@@ -2,7 +2,7 @@
 cat: gaia
 subcat: ginkgo
 bestof: false
-author: Alice Berre et al.
+author: Alice Le Berre et al.
 title: Effet de l’électroconvulsivothérapie sur la microstructure hippocampique dans la dépression sévère - une étude en neurite orientation dispersion and density imaging (NODDI)
 journal: Journal of Neuroradiology
 year: 2023

@@ -1,7 +1,7 @@
 ---
 cat: gaia
 subcat: ginkgo
-bestof: false
+bestof: true
 author: Raïssa Yebga Hot et al.
 title: A novel male Japanese quail structural connectivity atlas using ultra-high field diffusion MRI at 11.7 T
 journal: Brain Structure and Function

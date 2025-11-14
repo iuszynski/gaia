@@ -1,7 +1,7 @@
 ---
 cat: gaia
 subcat: ginkgo
-bestof: false
+bestof: true
 author: Kévin Ginsburger et al.
 title: MEDUSA - A GPU-based tool to create realistic phantoms of the brain microstructure using tiny spheres
 journal: NeuroImage
